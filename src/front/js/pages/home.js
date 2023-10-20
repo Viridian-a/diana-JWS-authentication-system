@@ -16,7 +16,7 @@ export const Home = () => {
 							<Link to="/register">
 								<button className="btn__register mx-5">REGISTER</button>
 							</Link>
-						<p className="card-text fs-4">If you do, login here</p>
+						<p className="card-text fs-4">If you do, login here 👇</p>
 							<Link to="/login">
 								<button className="btn__login mx-5">LOGIN</button>
 							</Link>
